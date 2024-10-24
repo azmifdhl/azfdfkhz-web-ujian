@@ -1,0 +1,23 @@
+.container{
+    color: rgb(0, 0, 0);
+}
+
+section {
+    margin-bottom: 20px;
+    background: #ec4e4e;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(207, 203, 203, 0.1);
+    border-radius: 2rem;
+}
+
+
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+
